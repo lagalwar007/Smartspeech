@@ -1,2 +1,15 @@
-page-login {
+.login-container {
+    display: block;
+    -webkit-flex-direction: column;
+    height: 100%;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#efad62), color-stop(100%,#f7d47c));
+    background: -webkit-linear-gradient(top, #ccc 0%,#bbeeee 100%);
+}
+.col{
+    padding: 0px !important;
+    img{
+        padding: 10px;
+        cursor: pointer;
+        border-radius: 5px;
+    }
 }

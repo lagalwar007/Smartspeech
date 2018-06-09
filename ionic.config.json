@@ -1,6 +1,6 @@
 {
   "name": "smartboy",
-  "app_id": "",
+  "app_id": "666c13d1",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
